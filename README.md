@@ -19,7 +19,7 @@ The **PFZ** is a service provide by INCOIS whoose importance and awarness can be
    - Players must monitor fuel levels and adjust navigation accordingly.
    - A visual fuel bar and alert system notify players when fuel is low.
 
-3. **Minimap Navigation**  
+3. **Mini map Navigation**  
    - A dynamic minimap tracks the boat’s real-time position in the ocean.
    - The minimap includes an icon that represents the boat’s current location and direction.
    - Players can rely on the minimap for precise navigation across vast ocean environments.
